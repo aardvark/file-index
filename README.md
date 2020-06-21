@@ -1,4 +1,4 @@
-#File indexer
+# File indexer
 
 Simple prof-of-concept of pura java file indexing approach. 
 
